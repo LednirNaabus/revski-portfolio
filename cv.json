@@ -1,46 +1,36 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Reverando Marciano Subaan",
+    "label": "Project Manager",
+    "image": "/andy.jfif",
+    "email": "revsubaan2016@gmail.com",
+    "phone": "+852 66069375",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Project Manager at Belt Collins",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "000",
+      "city": "Hong Kong SAR",
+      "countryCode": "HK",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
-      {
-        "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "andy-subaan",
+        "url": "https://www.linkedin.com/in/andy-subaan-63978453/"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Belt Collins Hong Kong",
+      "position": "Project Designer/Project Manager",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
+      "location": "Aberdeen, Hong Kong",
       "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "startDate": "2019",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
@@ -56,18 +46,17 @@
       ],
       "skills": [
         "React",
-        "Tailwind",
-        "GitHub"
+        "Tailwind"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
+      "name": "Belt Collins Hong Kong",
+      "position": "Project Designer",
+      "location_type": "On site",
+      "location": "Aberdeen, Hong Kong",
       "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "startDate": "2013",
+      "endDate": "2019",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
@@ -82,18 +71,64 @@
       ],
       "skills": [
         "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Django"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "name": "Belt Collins Shenzhen",
+      "position": "Project Designer",
+      "location_type": "On site",
+      "location": "Shenzhen, China",
+      "startDate": "2005",
+      "endDate": "2013",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "JAW International",
+      "position": "Project Designer",
+      "location_type": "On site",
+      "location": "Shanghai, China",
+      "startDate": "2004",
+      "endDate": null,
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "VHS Philippines",
+      "position": "Junior Project Designer (CADD Leader)",
+      "location_type": "On site",
+      "location": "Makati City, Philippines",
+      "startDate": "2000",
+      "endDate": "2004",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "SLM Land & Property Inc.",
+      "position": "Architect Assistant/Draftsman/Detailer/CAD Operator/Project Site Coordinator",
+      "location_type": "On site",
+      "location": "Makati City, Philippines",
+      "startDate": "1996",
+      "endDate": "1999",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
@@ -119,42 +154,16 @@
   ],
   "education": [
     {
-      "institution": "State University",
+      "institution": "Manuel S. Enverga University Foundation",
       "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "area": "Architecture",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "startDate": "1990",
+      "endDate": "1994",
       "score": "3.8",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
