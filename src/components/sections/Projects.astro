@@ -4,15 +4,18 @@ import { Icon } from "astro-icon/components";
 
 import { projects } from "@cv";
 import { Image } from "astro:assets";
+
+import PDFViewer from "../PDFViewer.astro";
 ---
 
 <Section className={Astro.props.className} title="Projects">
-      <iframe
-        src="/public/group-pdf-export.pdf"
+    <!--<PDFViewer url="public/Group-PDF-Export.pdf" />-->
+    <iframe
+        src="public/Group-PDF-Export.pdf"
         width="100%"
         height="600px"
         style="border: none;"
-        ></iframe>
+    ></iframe>
 </Section>
 <script>
   import { Fancybox } from "@fancyapps/ui";
