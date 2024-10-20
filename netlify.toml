@@ -1,3 +1,8 @@
+[[redirects]]
+from = "/*"
+to "/index.html"
+status = 200
+
 [build.environment]
   NETLIFY_USE_PNPM = "true"
   NODE_VERSION = "18"
