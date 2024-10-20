@@ -75,70 +75,130 @@
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "name": "Belt Collins Hong Kong",
+      "position": "Project Designer/Project Manager",
+      "location_type": "On Site",
+      "location": "HK",
+      "url": "https://hk.linkedin.com/company/belt-collins-international-hk-limited",
+      "startDate": "2019",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": null,
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Supervises projects from concept to working drawing.",
+        "Attends coordination meeting with project consultants.",
+        "Check, review, and revise DD/tender/construction drawing package.",
+        "Coordinate with project support staff.",
+        "Involved in international projects."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "name": "Belt Collins Hong Kong",
+      "position": "Project Designer",
+      "location_type": "On Site",
+      "location": "HK",
+      "url": "https://hk.linkedin.com/company/belt-collins-international-hk-limited",
+      "startDate": "2013",
+      "endDate": "2019",
+      "summary": null,
       "highlights": [
-        "Completed 95% of project content."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Involved in project package development.",
+        "Check, review, and revise drawing package.",
+        "Coordinate with project support staff"
       ],
       "achievements": [
-        "Ensured smooth project execution."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+      }
+    },
+    {
+      "name": "Belt Collins Shenzhen",
+      "position": "Project Designer",
+      "location_type": "On Site",
+      "location": "CN",
+      "url": "https://www.linkedin.com/company/belt-collins",
+      "startDate": "2005",
+      "endDate": "2013",
+      "summary": null,
+      "highlights": [
+      ],
+      "responsibilities": [
+        "Involved in project package development.",
+        "Train local support staff in project development."
+      ],
+      "achievements": [
+      ],
+      "skills": {
+      }
+    },
+    {
+      "name": "JAW International",
+      "position": "Project Designer",
+      "location_type": "On Site",
+      "location": "CN",
+      "url": "",
+      "startDate": "2004",
+      "endDate": "2005",
+      "summary": null,
+      "highlights": [
+      ],
+      "responsibilities": [
+        "Works include preparation of working drawings.",
+        "Acted as team leader in preparation of landscape design package."
+      ],
+      "achievements": [
+      ],
+      "skills": {
+      }
+    },
+    {
+      "name": "VHS Philippines",
+      "position": "Junior Project Designer (CADD Leader)",
+      "location_type": "On Site",
+      "location": "PH",
+      "url": "",
+      "startDate": "2000",
+      "endDate": "2004",
+      "summary": null,
+      "highlights": [
+      ],
+      "responsibilities": [
+        "Support designers in the preparation of works.",
+        "Works include design, detailing and tracing of scanned plans with the use of AutoCAD.",
+        "Encountered detailed drawings for Architectural, Civil works, Structural, Plumbing/Sanitary, Electrical drawings and Mechanical, with the use of computer software and annual drawings."
+      ],
+      "achievements": [
+      ],
+      "skills": {
+      }
+    },
+    {
+      "name": "SLM Land & Property Inc.",
+      "position": "Arch. Assistant/Draftsman/Detailer/CAD Operator/Project Site Coordinator",
+      "location_type": "On Site",
+      "location": "PH",
+      "url": "",
+      "startDate": "1996",
+      "endDate": "1999",
+      "summary": null,
+      "highlights": [
+      ],
+      "responsibilities": [
+        "Takes charge of all the drawings and production up to its implementation-Clubhouse, Pedestrian-Transport Terminal, Water Recreational Building, Guard houses, bridge enhancement, landscaping plans of round-abouts, cul-de-sacs, creekside promenade, corner motifs, and streetscape.",
+        "Coordinates drawings with the Marketing Department.",
+        "Engaged in the colored production of drawings (brochures).",
+        "Acts as Assistant to the Architect. Attends site coordination meetings with the contractors/bidders, inspects quality of works, coordinates drawings with the Site Engineers for its implementation."
+      ],
+      "achievements": [
+      ],
+      "skills": {
       }
     }
   ],
