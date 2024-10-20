@@ -29,6 +29,9 @@ importers:
       '@iconify-json/simple-icons':
         specifier: ^1.2.5
         version: 1.2.5
+      '@iconify-json/skill-icons':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@playform/compress':
         specifier: ^0.1.1
         version: 0.1.1(@types/node@22.7.4)(rollup@4.24.0)(typescript@5.6.2)
@@ -584,6 +587,9 @@ packages:
 
   '@iconify-json/simple-icons@1.2.5':
     resolution: {integrity: sha512-ucqBlm0GSjLpGQR+b61LtmHro0xkyjWl1v23AOzLTiymHK0chx7s7aeuE2s7/5/t/BzKdDu8iYuU2drawzCIQQ==}
+
+  '@iconify-json/skill-icons@1.2.0':
+    resolution: {integrity: sha512-5zlPrzF5pelV1wut7C88zmAiYONvGxvFw11dXW1Pr1oIhUOtYhC7x3zkErSTFkyZ3m5fEgcEUrcO1W3UhNJVpw==}
 
   '@iconify/tools@4.0.7':
     resolution: {integrity: sha512-zOJxKIfZn96ZRGGvIWzDRLD9vb2CsxjcLuM+QIdvwWbv6SWhm49gECzUnd4d2P0sq9sfodT7yCNobWK8nvavxQ==}
@@ -3791,6 +3797,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/simple-icons@1.2.5':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/skill-icons@1.2.0':
     dependencies:
       '@iconify/types': 2.0.0
 

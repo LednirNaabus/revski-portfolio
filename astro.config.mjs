@@ -13,6 +13,7 @@ export default defineConfig({
         mdi: ["*"],
         'ri': ['*'],
         'simple-icons': ['*'],
+          'skill-icons': ['*'],
       },
     }),
     playformCompress({
