@@ -2,43 +2,27 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "name": "Reverando Marciano Subaan",
+    "label": "Project Manager",
+    "image": "/daddy 1x1.jpg",
+    "email": "revsubaan2016@gmail.com",
+    "url": "https://www.linkedin.com/in/andy-subaan-63978453/",
+    "summary": "Project Manager based in Hong Kong",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Wanchai",
+      "city": "Hong Kong SAR",
+      "countryCode": "HK",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
-        "network": "GitHub",
-        "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "andy-subaan-63978453",
+        "url": "https://www.linkedin.com/in/andy-subaan-63978453/"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
     "intro": "Photography is the art of light, and images are the contours of memory.",
