@@ -204,340 +204,65 @@
   ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
+      "name": "AutoCAD",
+      "icon": "skill-icons:autocad-dark",
       "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
+        "AutoCAD",
+        "3D-Design",
+        "Autodesk"
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
+      "name": "Adobe Photoshop",
+      "icon": "skill-icons:photoshop",
       "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "Image editing",
+        "Design",
+        "Adobe",
+        "Graphics"
       ]
     },
     {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
+      "name": "Adobe InDesign",
+      "icon": "logos:adobe-indesign",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "Design",
+        "Adobe",
+        "Graphics"
       ]
     },
     {
-      "name": "SQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "icon": "mdi:git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "icon": "mdi:github",
+      "name": "SketchUp",
+      "icon": "skill-icons:sketchup-dark",
       "level": "Expert",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
+        "Design",
+        "3D Modeling",
+        "Graphics",
+        "Interior Design"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "Filipino",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Intermediate"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
   ],
   "references": [
-    {
-      "name": "MiraHikari",
-      "reference": "Reference…"
-    }
   ],
   "projects": [
     {
