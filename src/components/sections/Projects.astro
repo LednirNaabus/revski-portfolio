@@ -5,11 +5,17 @@ import { Icon } from "astro-icon/components";
 import { projects } from "@cv";
 import { Image } from "astro:assets";
 
-import PDFDownloadLink from "../PDFDownloadLink.astro";
+//import PDFDownloadLink from "../PDFDownloadLink.astro";
 ---
 
 <Section className={Astro.props.className} title="Projects">
-    <PDFDownloadLink pdfUrl="public/group-pdf-export.pdf" linkText="Download Reverando's Portfolio (.pdf)" />
+    <!--<PDFDownloadLink pdfUrl="public/group-pdf-export.pdf" linkText="Download Reverando's Portfolio (.pdf)" />-->
+    <iframe
+            src="public/Group-PDF-Export.pdf"
+            width="100%"
+            height="600px"
+            style="border:none;">
+    </iframe>
 </Section>
 <script>
   import { Fancybox } from "@fancyapps/ui";
