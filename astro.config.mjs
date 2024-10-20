@@ -15,6 +15,7 @@ export default defineConfig({
         'simple-icons': ['*'],
           'skill-icons': ['*'],
           'logos': ['*'],
+          'fluent-mdl2': ['*'],
       },
     }),
     playformCompress({

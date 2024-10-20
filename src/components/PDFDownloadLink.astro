@@ -1,0 +1,28 @@
+---
+interface Props {
+  pdfUrl: string;
+  linkText?: string;
+}
+
+const { pdfUrl, linkText = "Download PDF" } = Astro.props;
+---
+
+<a href={pdfUrl} download class="pdf-download-link">
+  {linkText}
+</a>
+
+<style>
+  .pdf-download-link {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .pdf-download-link:hover {
+    background-color: #0056b3;
+  }
+</style>

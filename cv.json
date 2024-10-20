@@ -60,18 +60,6 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
-    }
   ],
   "work": [
     {
@@ -237,6 +225,17 @@
     {
       "name": "SketchUp",
       "icon": "skill-icons:sketchup-dark",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "3D Modeling",
+        "Graphics",
+        "Interior Design"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "icon": "fluent-mdl2:workforce-management",
       "level": "Expert",
       "keywords": [
         "Design",

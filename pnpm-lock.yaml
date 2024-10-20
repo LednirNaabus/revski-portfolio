@@ -20,6 +20,9 @@ importers:
       '@fancyapps/ui':
         specifier: ^5.0.36
         version: 5.0.36
+      '@iconify-json/fluent-mdl2':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@iconify-json/logos':
         specifier: ^1.2.3
         version: 1.2.3
@@ -584,6 +587,9 @@ packages:
   '@fastify/busboy@2.1.1':
     resolution: {integrity: sha512-vBZP4NlzfOlerQTnba4aqZoMhE/a9HY7HRqoOPaETQcSQuWEIyZMHGfVu6w9wGtGK5fED5qRs2DteVCjOH60sA==}
     engines: {node: '>=14'}
+
+  '@iconify-json/fluent-mdl2@1.2.0':
+    resolution: {integrity: sha512-V/8AmNxszliUbFv6sNEVJM1JHshB3k7m/yjysG8fi9hTMkIW4v8XncJJZJTPNCiZRY12Lm/yKUENa8v1X/goTA==}
 
   '@iconify-json/logos@1.2.3':
     resolution: {integrity: sha512-JLHS5hgZP1b55EONAWNeqBUuriRfRNKWXK4cqYx0PpVaJfIIMiiMxFfvoQiX/bkE9XgkLhcKmDUqL3LXPdXPwQ==}
@@ -3825,6 +3831,10 @@ snapshots:
   '@fancyapps/ui@5.0.36': {}
 
   '@fastify/busboy@2.1.1': {}
+
+  '@iconify-json/fluent-mdl2@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/logos@1.2.3':
     dependencies:
