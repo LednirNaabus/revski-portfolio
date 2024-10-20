@@ -25,6 +25,7 @@
     "astro": "4.15.11",
     "astro-icon": "^1.1.1",
     "hotkeypad": "0.1.1",
+    "pdfjs-dist": "^4.7.76",
     "prettier-plugin-tailwindcss": "^0.6.8",
     "tailwindcss": "^3.4.13",
     "typescript": "^5.6.2"
