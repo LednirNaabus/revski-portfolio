@@ -14,6 +14,7 @@ export default defineConfig({
         'ri': ['*'],
         'simple-icons': ['*'],
           'skill-icons': ['*'],
+          'logos': ['*'],
       },
     }),
     playformCompress({
