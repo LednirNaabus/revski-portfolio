@@ -234,6 +234,16 @@
       ]
     },
     {
+      "name": "Autodesk Revit",
+      "icon": "simple-icons:autodeskrevit",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "3D Modeling",
+        "Graphics"
+      ]
+    },
+    {
       "name": "Project Management",
       "icon": "fluent-mdl2:workforce-management",
       "level": "Expert",
