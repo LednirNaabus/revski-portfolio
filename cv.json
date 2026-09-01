@@ -3,11 +3,11 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Andy Subaan",
-    "label": "Project Manager",
+    "label": "Technical Manager",
     "image": "/daddy 1x1.jpg",
     "email": "revsubaan2016@gmail.com",
     "url": "https://www.linkedin.com/in/andy-subaan-63978453/",
-    "summary": "Project Manager based in Hong Kong",
+    "summary": "Technical Manager based in Hong Kong",
     "theme": "red",
     "location": {
       "address": "Wanchai",
@@ -63,13 +63,36 @@
   ],
   "work": [
     {
+      "name": "KEO Insite International",
+      "position": "Technical Manager",
+      "location_type": "Work From Home",
+      "location": "HK",
+      "url": "https://insiteinternational.com",
+      "startDate": "2026",
+      "endDate": null,
+      "summary": null,
+      "highlights": [
+      ],
+      "responsibilities": [
+        "Supervises projects from concept to working drawing.",
+        "Attends coordination meeting with project consultants.",
+        "Check, review, and revise DD/tender/construction drawing package.",
+        "Coordinate with project support staff.",
+        "Involved in international projects."
+      ],
+      "achievements": [
+      ],
+      "skills": {
+      }
+    },
+    {
       "name": "Belt Collins Hong Kong",
       "position": "Project Designer/Project Manager",
       "location_type": "On Site",
       "location": "HK",
       "url": "https://hk.linkedin.com/company/belt-collins-international-hk-limited",
       "startDate": "2019",
-      "endDate": null,
+      "endDate": "2025",
       "summary": null,
       "highlights": [
       ],
